@@ -574,6 +574,7 @@ In this task, we aimed to create interactive dashboards to display sales and pro
 
 5. **Tooltip Configuration:**
    - Configure the tooltip to display customer names and sale figures upon hovering over a bar.
+![Customer Sales](./Tableau%20Dashboard/Customer%20Sales.png)
 
 ## Sales Trend Line Chart ##
 
@@ -589,6 +590,7 @@ In this task, we aimed to create interactive dashboards to display sales and pro
 
 4. **Chart Naming:**
    - Name the chart "Profit Chart."
+![Profit Chart](./Tableau%20Dashboard/Profit%20Chart.png)
 
 ## Sales Bubble Chart ##
 
@@ -604,6 +606,7 @@ In this task, we aimed to create interactive dashboards to display sales and pro
 
 4. **Tooltip Configuration:**
    - Configure the tooltip to display customer name, profit, and sales upon hovering over a bubble.
+![Sales Bubble Chart](./Tableau%20Dashboard/Sales%20Bubble%20Chart.png)
 
 ## Cuisine Sales and Profits Bar Chart ##
 
@@ -623,6 +626,8 @@ In this task, we aimed to create interactive dashboards to display sales and pro
 5. **Chart Naming:**
    - Name the chart "Cuisine Sales and Profits."
 
+![Cuisine Sales and Profits](RendyAdiyana/Little_Lemon_DB_Capstone_Project/Tableau%20Dashboard/Cuisine%20Sales%20and%20Profits.png)
+
 ## Interactive Dashboard ##
 
 1. **Combine Bar Chart and Bubble Chart:**
@@ -633,5 +638,6 @@ In this task, we aimed to create interactive dashboards to display sales and pro
 
 3. **Chart Naming:**
    - Name the interactive dashboard.
+![Dashboard](./Tableau%20Dashboard/Dashboard.png)
 
 By completing these tasks, Little Lemon now has interactive dashboards that provide insights into their sales, profits, and customer-related information. These visualizations empower them to make informed decisions and enhance their business performance.
